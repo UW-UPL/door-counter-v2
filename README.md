@@ -1,5 +1,5 @@
 > [!NOTE]  
-> This repository is slightly out of date. The code here still works, but is *not* secure (as made clear by the clever students who saw the endpoints I published here and immediately made fake calls to them to desynchronize the status of the door). There's a better, safer solution that you can learn about (here, on this blog post)[https://www.amoses.dev/blog/upl-people-counter/#using-the-door-statuses]. Thanks!
+> This repository is slightly out of date. The code here still works, but is *not* secure (as made clear by the clever students who saw the endpoints I published here and immediately made fake calls to them to desynchronize the status of the door). There's a better, safer solution that you can learn about [here, on this blog post](https://www.amoses.dev/blog/upl-people-counter/#using-the-door-statuses). Thanks!
 
 # 🚪 People Counter v2
 
